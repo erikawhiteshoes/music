@@ -9,8 +9,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "browser-sync": "^2.14.0",
     "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
     "gulp-data": "^1.2.1",
-    "gulp-nunjucks-render": "^2.0.0"
+    "gulp-htmlmin": "^2.0.0",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-nunjucks-render": "^2.0.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sequence": "^0.4.5"
   }
 }
